@@ -1,3 +1,8 @@
 print("hi")
+print("hi")
+print("hi")
+print("hi")
+print("hi")
+print("hi")
 
-print("5th")
+print("승후 6th")
