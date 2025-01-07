@@ -1,8 +1,1 @@
-print("hi")
-print("hi")
-print("hi")
-print("hi")
-print("hi")
-print("hi")
-
-print("승후 6th")
+print("승후 7th")
